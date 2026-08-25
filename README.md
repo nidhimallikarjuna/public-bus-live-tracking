@@ -31,3 +31,7 @@ See [`Use-Case-Flow/check-bus-eta.pdf`](Use-Case-Flow/check-bus-eta.pdf).
 ## Core System Idea
 
 The system continuously receives bus telemetry, uses the latest valid location data to calculate ETAs, and combines passenger/ticketing information to estimate crowding. This information is presented to commuters and fleet controllers so they can make better travel and operational decisions.
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/712bdb41-8be1-4b5b-91c9-602d4225a058" />
+
